@@ -1,0 +1,24 @@
+{
+    "Passenger-details" : [
+		{
+			"booking_id": "12335", 
+			"card_id": "SG_8158_2022-08-31 14:05:00", 
+			"trip_name": "RPR-DEL", 
+			"city_code": "RPR", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-08-31 14:05:00", 
+			"return_date": "", 
+			"travellers": "Raghav-Himself"
+		},
+        {
+			"booking_id": "12636", 
+			"card_id": "SG_8158_2022-09-02 14:05:00", 
+			"trip_name": "RPR-DEL", 
+			"city_code": "RPR", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-09-02 14:05:00", 
+			"return_date": "", 
+			"travellers": "Raghav-wife"
+		}
+	]
+}

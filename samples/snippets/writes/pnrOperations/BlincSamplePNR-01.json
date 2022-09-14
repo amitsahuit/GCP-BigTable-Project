@@ -1,0 +1,24 @@
+{
+    "Passenger-details" : [
+		{
+			"booking_id": "12340", 
+			"card_id": "SG_8158_2022-08-31 14:05:00", 
+			"trip_name": "DEL", 
+			"city_code": "DEL", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-08-31 14:05:00", 
+			"return_date": "", 
+			"travellers": ["SS"]
+		},
+		{
+			"booking_id": "12628", 
+			"card_id": "SG_8158_2022-09-02 14:05:00", 
+			"trip_name": "DEL", 
+			"city_code": "DEL", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-09-02 14:05:00", 
+			"return_date": "", 
+			"travellers": ["SS"]
+		}
+	]
+}

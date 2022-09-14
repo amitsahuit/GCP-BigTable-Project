@@ -1,0 +1,34 @@
+{
+    "Passenger-details" : [
+		{
+			"booking_id": "12330", 
+			"card_id": "SG_8158_2022-08-31 14:05:00", 
+			"trip_name": "DEL-HYD", 
+			"city_code": "DEL", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-08-31 14:05:00", 
+			"return_date": "", 
+			"travellers": "Raghav-Himself"
+		},
+		{
+			"booking_id": "12631", 
+			"card_id": "SG_8158_2022-09-02 14:05:00", 
+			"trip_name": "DEL-HYD", 
+			"city_code": "DEL", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-09-02 14:05:00", 
+			"return_date": "", 
+			"travellers": "Raghav-dad"
+		},
+        {
+			"booking_id": "12632", 
+			"card_id": "SG_8158_2022-09-02 14:05:00", 
+			"trip_name": "DEL-HYD", 
+			"city_code": "DEL", 
+			"status": "CONFIRMED", 
+			"departure_date": "2022-09-02 14:05:00", 
+			"return_date": "", 
+			"travellers": "Raghav-mom"
+		}
+	]
+}
